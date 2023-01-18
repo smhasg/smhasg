@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smhasg
-- 👀 I’m interested in pythone, machine learning ,data scientist , sql , linux  
+- 👀 I’m interested in python, machine learning ,data scientist , sql , linux  
 - 🌱 I’m currently learning every thing 
 - 💞️ I’m looking to collaborate on every thing auch 
 - 📫 How to reach me 
