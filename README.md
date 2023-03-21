@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smhasg
 - 👀 I’m interested in python, machine learning ,deep learning , neural networks , data scientist , sql , linux  
 - 🌱 I’m currently learning every thing 
-- 💞️ I’m looking to collaborate on every thing auch 
+- 💞️ I’m looking for collaborate on every thing auch 
 - 📫 smhasg@gmail.com 
 -  www.linkedin.com/in/sm-hossien-ale-seyed-ghafoor 
 
