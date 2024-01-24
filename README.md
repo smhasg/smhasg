@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @smhasg
-- 👀 I’m interested in python, machine learning ,data science و deep learning , neural networks  , sql , linux  
-- 🌱 I’m currently learning every thing  
-- 📫 smhasg@gmail.com 
--  www.linkedin.com/in/sm-hossien-ale-seyed-ghafoor 
+- programming python ,c+ , c#
+-  machine learning Engineer,
+-  data scientist  و
+-  deep learning , neural networks prgorammer ,    
 
-i using python notebook for doing data scince tasks  
+- 📫 smhasg@gmail.com 
+-  www.linkedin.com/in/sm-hossien-ale-seyed-ghafoor   
 
 <!---
 smhasg/smhasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
