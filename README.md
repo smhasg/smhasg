@@ -1,6 +1,6 @@
 - programming python ,c+ , c#
 -  machine learning Engineer,
--  data scientist  و
+-  data scientist , 
 -  deep learning , neural networks prgorammer ,    
 
 - 📫 smhasg@gmail.com 
